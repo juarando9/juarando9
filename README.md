@@ -9,5 +9,5 @@ Hola, soy Julieta, actualmente ando estudiando desarrollo de software y aprendie
 - 📊 Explorando de manera incipiente en análisis de datos.
 
 Puedes encontrarme en:
-- [LinkedIn]([https://www.linkedin.com/in/julieta-arteta/])
-- [Instagram]([(https://www.instagram.com/juliearte?igsh=MzhzNGVhb3kxZXM4])
+- [LinkedIn](https://www.linkedin.com/in/julieta-arteta/)
+- [Instagram](https://www.instagram.com/juliearte?igsh=MzhzNGVhb3kxZXM4)
