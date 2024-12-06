@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🌟 Bienvenido a mi perfil
+## 👋 Hi there
 
 Hola, soy Julieta, actualmente ando estudiando desarrollo de software y aprendiendo algo nuevo cada día.
 
